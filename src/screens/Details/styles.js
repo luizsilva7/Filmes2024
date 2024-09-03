@@ -41,6 +41,6 @@ const styles= StyleSheet.create({
          marginLeft:20
         
     }
-})
+      });
 
 export default styles;
